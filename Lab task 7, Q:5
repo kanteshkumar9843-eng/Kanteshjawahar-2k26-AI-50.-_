@@ -1,0 +1,8 @@
+Question No:5
+
+values = {1, 2, 2, 3, 3, 3, 4}
+
+print(values)
+print("Length:", len(values))
+
+Explanation: A set stores only unique values. Repeated numbers are counted only once.
